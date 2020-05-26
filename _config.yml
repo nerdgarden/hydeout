@@ -36,4 +36,5 @@ sidebar_home_link:  true
 
 #theme: jekyll-theme-cayman
 
-disqus.shortname: 'nerd-garden'
+disqus:
+  shortname: 'nerd-garden'
